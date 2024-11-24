@@ -1,0 +1,76 @@
+/*
+ * Global
+ */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+html {
+  text-align: center;
+}
+
+/*
+ * Container
+ */
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/*
+ * Header
+ */
+h1 {
+  font-size: 24px;
+  color: #333;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+/*
+ * Table
+ */
+table {
+  border-collapse: collapse;
+  margin: 20px auto;
+  table-layout: auto;
+  width: auto; /* Adjust table width to fit content */
+  white-space: nowrap; /* Prevent text wrapping */
+}
+
+/*
+ * Table cells
+ */
+th,
+td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+/*
+ * Rank
+ */
+.rank {
+  font-weight: bold;
+}
+
+/*
+ * Error
+ */
+.error {
+  color: red;
+  font-weight: bold;
+}

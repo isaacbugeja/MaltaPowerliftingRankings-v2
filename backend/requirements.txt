@@ -1,0 +1,5 @@
+pyspark
+flask
+pandas
+setuptools
+flask_cors
