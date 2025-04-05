@@ -6,8 +6,8 @@ document.addEventListener("DOMContentLoaded", function() {
     const fetchAndRenderData = async () => {
       try {
         const [response1, response2] = await Promise.all([
-          fetch('../malta-national-rankings/json/updated-rankings-male.json'),
-          fetch('../malta-national-rankings/json/updated-rankings-female.json')
+          fetch('../docs/json/updated-rankings-male.json'),
+          fetch('../docs/json/updated-rankings-female.json')
         ]);
   
         if (!response1.ok || !response2.ok) {
