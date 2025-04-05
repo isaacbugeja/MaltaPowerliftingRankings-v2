@@ -1,167 +1,218 @@
 [
     {
         "Name": "Evita Otigbah",
-        "Goodlift": "101.36",
-        "Date": "13-09-2024"
+        "Goodlift": "108.69",
+        "Gender": "F",
+        "Date": "09-03-2025"
+    },
+    {
+        "Name": "Maria Farrugia",
+        "Goodlift": "91.57",
+        "Gender": "F",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Lorna Cachia",
         "Goodlift": "89.06",
+        "Gender": "F",
         "Date": "06-04-2024"
     },
     {
-        "Name": "Maria Farrugia",
-        "Goodlift": "83.66",
-        "Date": "09-11-2024"
+        "Name": "Shanel M Mallia",
+        "Goodlift": "86.23",
+        "Gender": "F",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Shanel Mallia",
         "Goodlift": "82.45",
+        "Gender": "F",
         "Date": "09-11-2024"
     },
     {
         "Name": "Catherine Portelli",
         "Goodlift": "79.87",
+        "Gender": "F",
         "Date": "11-06-2023"
+    },
+    {
+        "Name": "Laura Chetcuti Dimech",
+        "Goodlift": "79.04",
+        "Gender": "F",
+        "Date": "09-03-2025"
+    },
+    {
+        "Name": "Maria Pezkine",
+        "Goodlift": "77.64",
+        "Gender": "F",
+        "Date": "09-03-2025"
+    },
+    {
+        "Name": "Caylee Attard",
+        "Goodlift": "77.38",
+        "Gender": "F",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Ema-Sinead Zammit",
         "Goodlift": "76.74",
+        "Gender": "F",
         "Date": "09-11-2024"
     },
     {
         "Name": "Elise Lombardo",
         "Goodlift": "75.34",
+        "Gender": "F",
         "Date": "09-11-2024"
     },
     {
         "Name": "Maja V\u00c3\u00a4h\u00c3\u00a4",
         "Goodlift": "75.32",
+        "Gender": "F",
         "Date": "13-09-2024"
     },
     {
         "Name": "Daniela Vella",
         "Goodlift": "75.3",
+        "Gender": "F",
         "Date": "27-01-2024"
     },
     {
         "Name": "Nicole Vassallo",
         "Goodlift": "74.66",
+        "Gender": "F",
         "Date": "09-11-2024"
     },
     {
         "Name": "Abigail Marrero",
         "Goodlift": "74.6",
+        "Gender": "F",
         "Date": "06-04-2024"
-    },
-    {
-        "Name": "Caylee Attard",
-        "Goodlift": "72.52",
-        "Date": "09-11-2024"
     },
     {
         "Name": "Michela Borg",
-        "Goodlift": "71.97",
-        "Date": "09-11-2024"
-    },
-    {
-        "Name": "Maria Pezkine",
-        "Goodlift": "71.75",
-        "Date": "06-04-2024"
+        "Goodlift": "72.64",
+        "Gender": "F",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Michelle Mifsud",
         "Goodlift": "71.36",
+        "Gender": "F",
         "Date": "27-01-2024"
     },
     {
         "Name": "Stephanie Spiteri",
         "Goodlift": "69.59",
+        "Gender": "F",
         "Date": "06-04-2024"
     },
     {
         "Name": "Kim Grech",
         "Goodlift": "69.34",
+        "Gender": "F",
         "Date": "09-11-2024"
     },
     {
         "Name": "Xhamaja El Nahal",
         "Goodlift": "68.7",
+        "Gender": "F",
         "Date": "06-04-2024"
     },
     {
         "Name": "Merlina Marinova",
         "Goodlift": "66.38",
+        "Gender": "F",
         "Date": "09-11-2024"
+    },
+    {
+        "Name": "Celine Borg",
+        "Goodlift": "63.71",
+        "Gender": "F",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Fabiana Bermudez",
         "Goodlift": "62.77",
+        "Gender": "F",
         "Date": "11-06-2023"
     },
     {
         "Name": "Stef Spiteri",
         "Goodlift": "62.03",
+        "Gender": "F",
         "Date": "04-12-2023"
     },
     {
         "Name": "Ilaria Spiteri Axiak",
         "Goodlift": "61.1",
+        "Gender": "F",
         "Date": "06-04-2024"
     },
     {
         "Name": "Ana Crnjak",
         "Goodlift": "60.66",
+        "Gender": "F",
         "Date": "16-09-2023"
     },
     {
         "Name": "Gounay Hassan",
         "Goodlift": "60.05",
+        "Gender": "F",
         "Date": "06-04-2024"
     },
     {
         "Name": "Joelle Farrugia",
         "Goodlift": "59.22",
+        "Gender": "F",
         "Date": "16-09-2023"
     },
     {
         "Name": "Vanessa Mizzi",
         "Goodlift": "59.18",
+        "Gender": "F",
         "Date": "16-09-2023"
     },
     {
-        "Name": "Celine Borg",
-        "Goodlift": "57.45",
-        "Date": "27-01-2024"
+        "Name": "Ghalia Al Waheeb",
+        "Goodlift": "58.28",
+        "Gender": "F",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Maya Anne Azzopardi",
         "Goodlift": "57.11",
+        "Gender": "F",
         "Date": "09-11-2024"
     },
     {
         "Name": "Cheryl Marie Bajada",
         "Goodlift": "54.55",
+        "Gender": "F",
         "Date": "27-01-2024"
     },
     {
         "Name": "Lorenza Elphick",
         "Goodlift": "52.61",
+        "Gender": "F",
         "Date": "09-11-2024"
     },
     {
         "Name": "Evelyn Saliba La Rosa",
         "Goodlift": "49.11",
+        "Gender": "F",
         "Date": "27-01-2024"
+    },
+    {
+        "Name": "Michela Mizzi",
+        "Goodlift": "43.19",
+        "Gender": "F",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Elise Kik",
         "Goodlift": "41.88",
+        "Gender": "F",
         "Date": "09-11-2024"
-    },
-    {
-        "Name": "Michela Mizzi",
-        "Goodlift": "41.45",
-        "Date": "02-06-2024"
     }
 ]

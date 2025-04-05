@@ -1,292 +1,380 @@
 [
     {
+        "Name": "Benjamin Sacco",
+        "Goodlift": "97.77",
+        "Gender": "M",
+        "Date": "09-03-2025"
+    },
+    {
+        "Name": "Matthew Mifsud",
+        "Goodlift": "97.55",
+        "Gender": "M",
+        "Date": "09-03-2025"
+    },
+    {
+        "Name": "Jurgen Dalli",
+        "Goodlift": "94.66",
+        "Gender": "M",
+        "Date": "09-03-2025"
+    },
+    {
         "Name": "Neil Bezzina",
-        "Goodlift": "94.26",
-        "Date": "09-11-2024"
+        "Goodlift": "94.31",
+        "Gender": "M",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Nikola Vuksanovic",
         "Goodlift": "94.21",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
-        "Name": "Jurgen Dalli",
-        "Goodlift": "93.66",
-        "Date": "09-11-2024"
-    },
-    {
-        "Name": "Benjamin Sacco",
-        "Goodlift": "92.35",
-        "Date": "15-06-2024"
-    },
-    {
-        "Name": "Matthew Mifsud",
-        "Goodlift": "91.0",
-        "Date": "28-08-2024"
+        "Name": "Ian Pace",
+        "Goodlift": "91.81",
+        "Gender": "M",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Shawn Farrugia",
         "Goodlift": "90.84",
+        "Gender": "M",
         "Date": "04-12-2023"
     },
     {
         "Name": "Wayne Gregoraci",
         "Goodlift": "90.0",
+        "Gender": "M",
         "Date": "04-12-2023"
     },
     {
-        "Name": "Ian Pace",
-        "Goodlift": "89.18",
-        "Date": "09-11-2024"
+        "Name": "Alessandro Gatt",
+        "Goodlift": "89.59",
+        "Gender": "M",
+        "Date": "09-03-2025"
     },
     {
-        "Name": "Joseph Abela",
+        "Name": "Joseph Abela #1",
         "Goodlift": "87.91",
+        "Gender": "M",
         "Date": "13-09-2024"
     },
     {
         "Name": "Paul Gauci",
         "Goodlift": "87.63",
+        "Gender": "M",
         "Date": "06-04-2024"
-    },
-    {
-        "Name": "Alessandro Gatt",
-        "Goodlift": "86.26",
-        "Date": "28-08-2024"
     },
     {
         "Name": "Daryl Ruggier",
-        "Goodlift": "86.13",
-        "Date": "06-04-2024"
+        "Goodlift": "87.36",
+        "Gender": "M",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Nicolas Azzopardi",
         "Goodlift": "85.63",
+        "Gender": "M",
         "Date": "16-09-2023"
     },
     {
         "Name": "Mario Mifsud",
         "Goodlift": "85.49",
+        "Gender": "M",
         "Date": "11-06-2023"
     },
     {
         "Name": "Nicholas Azzopardi",
         "Goodlift": "84.84",
+        "Gender": "M",
         "Date": "06-04-2024"
     },
     {
         "Name": "Charles Degiorgio",
         "Goodlift": "84.7",
+        "Gender": "M",
         "Date": "06-04-2024"
     },
     {
         "Name": "Malcolm Farrugia",
         "Goodlift": "84.27",
+        "Gender": "M",
         "Date": "11-06-2023"
+    },
+    {
+        "Name": "Zach Abela",
+        "Goodlift": "82.71",
+        "Gender": "M",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Glenn Vella",
         "Goodlift": "82.09",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Daniel Formosa",
         "Goodlift": "81.94",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Matteo Aquilina",
         "Goodlift": "80.96",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
-        "Name": "Zach Abela",
-        "Goodlift": "80.07",
-        "Date": "09-11-2024"
+        "Name": "Calvin Sammut",
+        "Goodlift": "80.26",
+        "Gender": "M",
+        "Date": "09-03-2025"
+    },
+    {
+        "Name": "Jonathan Zammit",
+        "Goodlift": "79.96",
+        "Gender": "M",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Warren Ablea",
         "Goodlift": "79.59",
+        "Gender": "M",
         "Date": "16-09-2023"
+    },
+    {
+        "Name": "Warren Abela",
+        "Goodlift": "78.64",
+        "Gender": "M",
+        "Date": "06-04-2024"
     },
     {
         "Name": "Luke Brincat Stellini",
         "Goodlift": "78.4",
+        "Gender": "M",
         "Date": "27-01-2024"
+    },
+    {
+        "Name": "Davide Nocetti",
+        "Goodlift": "78.31",
+        "Gender": "M",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Malcolm Borg",
         "Goodlift": "77.94",
+        "Gender": "M",
         "Date": "06-04-2024"
     },
     {
         "Name": "Mohammad Alkhatrash",
         "Goodlift": "77.48",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
-        "Name": "Calvin Sammut",
-        "Goodlift": "77.35",
-        "Date": "02-06-2024"
+        "Name": "Christian Attard",
+        "Goodlift": "76.84",
+        "Gender": "M",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Matthew Agius",
         "Goodlift": "76.17",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Isaac Bugeja",
         "Goodlift": "75.97",
-        "Date": "09-11-2024"
-    },
-    {
-        "Name": "Jonathan Zammit",
-        "Goodlift": "75.94",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Josef Mario Xiberras",
         "Goodlift": "75.58",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Albert Attard",
         "Goodlift": "74.42",
+        "Gender": "M",
         "Date": "16-09-2023"
     },
     {
         "Name": "Koyuncu Zack",
         "Goodlift": "74.38",
+        "Gender": "M",
         "Date": "10-10-2023"
     },
     {
         "Name": "Xin Yuan Lu",
         "Goodlift": "74.21",
+        "Gender": "M",
         "Date": "16-09-2023"
+    },
+    {
+        "Name": "Xavier Borg",
+        "Goodlift": "73.82",
+        "Gender": "M",
+        "Date": "09-03-2025"
     },
     {
         "Name": "Marco Burelli",
         "Goodlift": "73.73",
-        "Date": "06-04-2024"
-    },
-    {
-        "Name": "Christian Attard",
-        "Goodlift": "73.06",
+        "Gender": "M",
         "Date": "06-04-2024"
     },
     {
         "Name": "Jaice Schembri",
         "Goodlift": "72.7",
+        "Gender": "M",
         "Date": "27-01-2024"
     },
     {
         "Name": "Gabin No\u00c3\u00a9",
         "Goodlift": "72.66",
+        "Gender": "M",
         "Date": "06-04-2024"
     },
     {
         "Name": "Neil Micallef Griscti",
         "Goodlift": "72.49",
+        "Gender": "M",
         "Date": "16-09-2023"
     },
     {
         "Name": "Thabang Motloung",
         "Goodlift": "72.19",
+        "Gender": "M",
         "Date": "27-01-2024"
     },
     {
         "Name": "Alberto Marin",
         "Goodlift": "71.86",
+        "Gender": "M",
         "Date": "06-04-2024"
     },
     {
         "Name": "Matthew Magro Cockram",
         "Goodlift": "70.11",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Frazer Frankilin",
         "Goodlift": "69.92",
+        "Gender": "M",
         "Date": "16-09-2023"
     },
     {
         "Name": "Asser Ahmed",
         "Goodlift": "68.24",
+        "Gender": "M",
         "Date": "27-01-2024"
     },
     {
         "Name": "Joshua Vella",
         "Goodlift": "67.93",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Matteo Giorgino",
         "Goodlift": "67.82",
+        "Gender": "M",
         "Date": "09-11-2024"
+    },
+    {
+        "Name": "Matthew Aguis",
+        "Goodlift": "66.36",
+        "Gender": "M",
+        "Date": "16-09-2023"
+    },
+    {
+        "Name": "Aser Ahmed",
+        "Goodlift": "66.24",
+        "Gender": "M",
+        "Date": "16-09-2023"
     },
     {
         "Name": "Jurgen Muscat",
         "Goodlift": "65.39",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Zack Abela",
         "Goodlift": "64.08",
+        "Gender": "M",
         "Date": "16-09-2023"
     },
     {
         "Name": "Jean Attard",
         "Goodlift": "63.0",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Kai Botha",
         "Goodlift": "62.37",
+        "Gender": "M",
         "Date": "16-09-2023"
     },
     {
         "Name": "Gary Saliba Distefano",
         "Goodlift": "61.7",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Jeremy Bondin",
         "Goodlift": "60.59",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Clayton Cini",
         "Goodlift": "57.44",
+        "Gender": "M",
         "Date": "16-09-2023"
     },
     {
         "Name": "Georgius Mifsud",
         "Goodlift": "56.5",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Jonathan Bajada",
         "Goodlift": "55.5",
+        "Gender": "M",
         "Date": "06-04-2024"
     },
     {
         "Name": "Manwel Cutajar",
         "Goodlift": "54.88",
+        "Gender": "M",
         "Date": "06-04-2024"
     },
     {
         "Name": "Isaac Sammut",
         "Goodlift": "51.71",
+        "Gender": "M",
         "Date": "09-11-2024"
     },
     {
         "Name": "Matthew Fenech",
         "Goodlift": "50.03",
+        "Gender": "M",
         "Date": "06-04-2024"
     },
     {
         "Name": "Francis Spiteri",
         "Goodlift": "47.67",
+        "Gender": "M",
         "Date": "16-09-2023"
     }
 ]
